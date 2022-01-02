@@ -2212,6 +2212,7 @@ option:nth-child(1) {
 
 .place-famous__intro {
     position: absolute;
+    z-index: 1;
     top: 50%;
     left: 50%;
     width: 17rem;
